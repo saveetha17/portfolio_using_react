@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "title":"Password generator",
+        "image":"/assets/password.png",
+        "live":"",
+        "repo":"",
+        "description":"JS app using alerts and confirms"
+    },
+    {
+        "id":2,
+        "title":"ReadME generator",
+        "image":"/assets/password.png",
+        "live":"",
+        "repo":"",
+        "description":"JS app generates ReadME"
+    },
+    {
+        "id":3,
+        "title":"Tech Blog",
+        "image":"/assets/password.png",
+        "live":"",
+        "repo":"",
+        "description":"user-friendly platform for developers to share their thoughts, engage in discussions, and stay connected with the tech community."
+    },
+    {
+        "id":4,
+        "title":"Text_Editor using PWA",
+        "image":"/assets/images/text_editor.png",
+        "live":"https://cryptic-plains-32797-09e517ae9565.herokuapp.com",
+        "repo":"https://github.com/saveetha17/Text_Editor-PWA.git",
+        "description":"It is an application that can be accessed through a web browser even in offline."
+    }
+]
