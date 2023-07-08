@@ -1,14 +1,15 @@
 import projects from "./projects.json";
 import React, { useState } from "react";
 import Card from "react-bootstrap/Card";
-import ListGroup from "react-bootstrap/ListGroup";
+//import ListGroup from "react-bootstrap/ListGroup";
 import Container from "react-bootstrap/Container";
 
 function Work() {
   const [projectList] = useState(projects);
 
   return (
-    <Container>
+    <Container id="work" className="page-content">
+      <h2 className="text-center">My Projects</h2>
       <section className="d-flex flex-wrap justify-content-evenly">
         {projectList.map((project, key) => {
           return (

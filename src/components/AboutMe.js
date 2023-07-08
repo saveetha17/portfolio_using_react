@@ -6,7 +6,7 @@ import Image from "react-bootstrap/esm/Image";
 
 function AboutMe() {
   return (
-    <Container id="aboutme">
+    <Container id="aboutme" className="page-content">
       <Row>
         <Col xs={6} md={4}>
           <Image
