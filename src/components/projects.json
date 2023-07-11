@@ -2,7 +2,7 @@
     {
         "id":1,
         "title":"Text_Editor using PWA",
-        "image":"/assets/images/text_editor.png",
+        "image":"/assets/Images/text_editor.png",
         "live":"https://cryptic-plains-32797-09e517ae9565.herokuapp.com",
         "repo":"https://github.com/saveetha17/Text_Editor-PWA.git",
         "description":"It is an application that can be accessed through a web browser even in offline."

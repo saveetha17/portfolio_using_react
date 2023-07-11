@@ -10,7 +10,9 @@ function AboutMe() {
       <Row>
         <Col xs={6} md={4}>
           <Image
-            src={process.env.PUBLIC_URL + "/assets/images/AvatarImage.jpg"}
+            src={
+              process.env.PUBLIC_URL + "/assets/Images/AvatarProfileImage.png"
+            }
             roundedCircle
             fluid
           />

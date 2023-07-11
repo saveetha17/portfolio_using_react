@@ -15,7 +15,7 @@ function Resume() {
           title="resume"
         ></iframe>
         <div className="d-grid gap-2">
-          <a href={process.env.PUBLIC_URL + "/Resume.pdf"} download>
+          <a href={process.env.PUBLIC_URL + "/assets/Resume.pdf"} download>
             <Button variant="primary" size="lg">
               Download Resume
             </Button>

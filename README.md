@@ -1,20 +1,24 @@
-# Social_Network_API-NoSQL
+# Portfolio
 
 ## Description
 
 This project mainly focuses on creating portfolio using React frame work
 
-## Usage
-Clone the repository from GitHub
+## Installation
+
+Clone the Git repository
 Install node.js
 Run npm install to install dependencies.
 Run npm start to start the application
 
+## Usage
+
+![ScreenShot](./public/assets/Images/Portfolio.png)
+
 ## Link to Github Repository
 
+https://github.com/saveetha17/portfolio_using_react.git
 
+## Link to Deployed Application
 
-## Link to Screencastify Video
-
-https://drive.google.com/file/d/1iOIBLE9ZvC0fbnwDb5FfMYCm8OV_8IIh/view
-https://drive.google.com/file/d/17gv2uTHsctke3_O33Lu4VqBSRgXKCSIl/view
+https://saveetha17.github.io/portfolio_using_react/
