@@ -6,7 +6,7 @@ function Resume() {
       <h2 className="text-center">Resume</h2>
       <section className="container text-center">
         <iframe
-          src="https://docs.google.com/document/d/e/2PACX-1vSIQLaQWsHX_pzbdc2fmmK88wWn5doywyuN_-g6rDn9fcw763EmtrQeLIzeiCQ07FFZdWoDv3ye3hWx/pub?embedded=true"
+          src="https://docs.google.com/document/d/0B1UyS2VTl743QzY4dFV6Y0pyUGVHclNNVkUyenRJQWpmMzZR/edit?usp=drive_link&ouid=118433053718451611351&resourcekey=0-V9N9DTZlRybDzNQ_4r-0sw&rtpof=true&sd=true"
           width="640"
           height="700"
           frameBorder="0"

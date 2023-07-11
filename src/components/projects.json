@@ -1,34 +1,51 @@
 [
     {
         "id":1,
-        "title":"Password generator",
-        "image":"/assets/password.png",
-        "live":"",
-        "repo":"",
-        "description":"JS app using alerts and confirms"
-    },
-    {
-        "id":2,
-        "title":"ReadME generator",
-        "image":"/assets/password.png",
-        "live":"",
-        "repo":"",
-        "description":"JS app generates ReadME"
-    },
-    {
-        "id":3,
-        "title":"Tech Blog",
-        "image":"/assets/password.png",
-        "live":"",
-        "repo":"",
-        "description":"user-friendly platform for developers to share their thoughts, engage in discussions, and stay connected with the tech community."
-    },
-    {
-        "id":4,
         "title":"Text_Editor using PWA",
         "image":"/assets/images/text_editor.png",
         "live":"https://cryptic-plains-32797-09e517ae9565.herokuapp.com",
         "repo":"https://github.com/saveetha17/Text_Editor-PWA.git",
         "description":"It is an application that can be accessed through a web browser even in offline."
+    },
+    {
+        "id":2,
+        "title":"EmployeeTracker",
+        "image":"/assets/Images/EmployeeTracker.png",
+        "live":"https://drive.google.com/file/d/1H_ZoeE1eWuKMJdhHVOqz4L7tBsvQX44Z/view",
+        "repo":"https://github.com/saveetha17/EmployeeTracker.git",
+        "description":"EmployeeTracker is a command-line application that allows us to view and manage the departments, roles, and employees in an organization to sort the datas effectively."
+    },
+    {
+        "id":3,
+        "title":"Password generator",
+        "image":"/assets/Images/PasswordGenerator.png",
+        "live":"https://saveetha17.github.io/PasswordGenerator/",
+        "repo":"https://github.com/saveetha17/PasswordGenerator.git",
+        "description":"Password Generator is an website application that generates a random password which provides greater security to access sensitive data."
+    },
+    {
+        "id":4,
+        "title":"Note Taker",
+        "image":"/assets/Images/NoteTaker.png",
+        "live":"https://evening-taiga-05327.herokuapp.com/notes",
+        "repo":"https://github.com/saveetha17/NoteTaker.git",
+        "description":"Note Taker is an application that can be used to write,save and delete notes which will use an Express.js back end to save and retrieve note from a JSON file."
+    },
+    {
+        "id":5,
+        "title":"SVG Logo Maker",
+        "image":"/assets/Images/SVG.png",
+        "live":"https://drive.google.com/file/d/1g6ss8xiQ874WijJ7ViJG4WZ2qPsXz-Dj/view",
+        "repo":"https://github.com/saveetha17/SVG-LogoMaker.git",
+        "description":"SVG-LogoMaker is a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file."
+    },
+    {
+        "id":6,
+        "title":"ReadME generator",
+        "image":"/assets/Images/ReadMEGenerator.png",
+        "live":"https://drive.google.com/file/d/1eeu7XHrRIH1UVZOakwre-JStgswhY6PR/view",
+        "repo":"https://github.com/saveetha17/README-Generator.git",
+        "description":"ReadME-Generator is a website application, developed to generate a ReadME file for any project by prompting series of questions to save time for users."
     }
+
 ]
