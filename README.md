@@ -2,7 +2,7 @@
 
 ## Description
 
-This project mainly focuses on creating portfolio using React frame work
+This project mainly focuses on creating portfolio using React frame work. It allows employers to easily review the portfolios of employees. It provides a user-friendly interface with sections such as "About Me," "Portfolio," "Contact," and "Resume." 
 
 ## Installation
 
